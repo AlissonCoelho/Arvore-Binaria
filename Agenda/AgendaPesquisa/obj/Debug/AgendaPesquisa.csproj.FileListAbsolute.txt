@@ -1,0 +1,7 @@
+E:\Dados\PUC\4° Periodo\AED - Algoritimo Estrutura de dados\Laboratorio\Agenda\AgendaPesquisa\bin\Debug\AgendaPesquisa.exe.config
+E:\Dados\PUC\4° Periodo\AED - Algoritimo Estrutura de dados\Laboratorio\Agenda\AgendaPesquisa\bin\Debug\AgendaPesquisa.exe
+E:\Dados\PUC\4° Periodo\AED - Algoritimo Estrutura de dados\Laboratorio\Agenda\AgendaPesquisa\bin\Debug\AgendaPesquisa.pdb
+E:\Dados\PUC\4° Periodo\AED - Algoritimo Estrutura de dados\Laboratorio\Agenda\AgendaPesquisa\obj\Debug\AgendaPesquisa.csprojResolveAssemblyReference.cache
+E:\Dados\PUC\4° Periodo\AED - Algoritimo Estrutura de dados\Laboratorio\Agenda\AgendaPesquisa\obj\Debug\AgendaPesquisa.csproj.CoreCompileInputs.cache
+E:\Dados\PUC\4° Periodo\AED - Algoritimo Estrutura de dados\Laboratorio\Agenda\AgendaPesquisa\obj\Debug\AgendaPesquisa.exe
+E:\Dados\PUC\4° Periodo\AED - Algoritimo Estrutura de dados\Laboratorio\Agenda\AgendaPesquisa\obj\Debug\AgendaPesquisa.pdb

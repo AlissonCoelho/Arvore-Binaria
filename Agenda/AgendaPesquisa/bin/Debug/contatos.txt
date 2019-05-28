@@ -1,0 +1,4 @@
+1|Alisson|07/05/1993|(31)97127-0466|alissonahc@gmail.com
+2|João|15/03/1992|(11)98942-8657|joao.andrade@hotmail.com
+4|Ana|25/10/2000|(31)98930-2510|annaluiza@gmail.com
+6|karen|14/08/1995|(31)92838-5732|karen.sacar@hotmail.com
